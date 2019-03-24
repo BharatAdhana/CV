@@ -1,0 +1,30 @@
+
+  body{
+    background-image: url("http://wallpapers.ae/wp-content/uploads/2015/12/Vector-Apple-Mac-Hd-Wallpaper.jpg");
+    background-attachment: fixed;
+  color: #fabc60;
+  font-family: inherit;
+  font-size: 15px;
+  }
+  img {
+    width: 170px;
+    border-radius: 50%;
+  }
+
+  hr{
+    border-color: #d5daeb;
+    border-width: medium;
+    border-style: none;
+    border-top-style: dotted;
+    height: inherit;
+    width: 90%;
+  }
+
+h1 ,h3
+{
+  color: #66bfbf;
+}
+
+a{
+  color: red;
+}
